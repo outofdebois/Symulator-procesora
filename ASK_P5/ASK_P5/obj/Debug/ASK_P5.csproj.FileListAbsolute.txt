@@ -1,0 +1,8 @@
+C:\Users\mateu\OneDrive\Pulpit\posk5\posk5\obj\Debug\ASK_P5.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Pulpit\posk5\posk5\obj\Debug\ASK_P5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateu\OneDrive\Pulpit\posk5\posk5\obj\Debug\ASK_P5.Form1.resources
+C:\Users\mateu\OneDrive\Pulpit\posk5\posk5\obj\Debug\posk5.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Pulpit\posk5\posk5\obj\Debug\ASK_P5.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Pulpit\posk5\posk5\obj\Debug\ASK_P5.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Pulpit\posk5\posk5\obj\Debug\posk5.exe
+C:\Users\mateu\OneDrive\Pulpit\posk5\posk5\obj\Debug\posk5.pdb
